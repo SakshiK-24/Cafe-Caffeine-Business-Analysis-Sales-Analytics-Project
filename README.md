@@ -1,6 +1,6 @@
 # Cafe&Caffeine: Business Analysis & Sales Analytics Project
 End-to-end Business Analysis and Sales Analytics project for a coffee shop, including Requirement Gathering, BRD, FRD, User Stories, RTM, Use Case Diagram, and an interactive Power BI dashboard built using 10,000 transaction records.
-
+<img src="images/Cafe&Caffeine.png" width="200"/>
 ## 📌 Project Overview
 Cafe & Caffeine is a popular coffee shop known for its strong coffee and sweet treats. As customer demand increased, the manual ordering process led to delays, limited menu visibility, and operational inefficiencies.
 To address these challenges, a Business Analysis case study was conducted to propose an Online Ordering & Delivery System. Additionally, a Power BI dashboard was developed using transactional sales data to analyze customer behavior, product performance, revenue trends, and payment preferences.
@@ -46,7 +46,7 @@ The solution also provides a staff portal to manage orders and delivery informat
 
 The following Use Case Diagram illustrates the interactions between Customers, Staff Members, and the Owner within the Cafe & Caffeine Online Ordering System.
 
-![Breast Cancer Dashboard](images/Dashboardf.png)
+![Cafe&Caffeine Dashboard](images/CafeDashboard.png)
 ---
 ## 📊 Data Analytics Phase
 
